@@ -1,0 +1,17 @@
+D:\ornek\UserProject\UserProject.Repository\bin\Debug\net6.0\UserProject.Repository.deps.json
+D:\ornek\UserProject\UserProject.Repository\bin\Debug\net6.0\UserProject.Repository.runtimeconfig.json
+D:\ornek\UserProject\UserProject.Repository\bin\Debug\net6.0\UserProject.Repository.dll
+D:\ornek\UserProject\UserProject.Repository\bin\Debug\net6.0\UserProject.Repository.pdb
+D:\ornek\UserProject\UserProject.Repository\bin\Debug\net6.0\UserProject.Core.dll
+D:\ornek\UserProject\UserProject.Repository\bin\Debug\net6.0\UserProject.Core.pdb
+D:\ornek\UserProject\UserProject.Repository\obj\Debug\net6.0\UserProject.Repository.csproj.AssemblyReference.cache
+D:\ornek\UserProject\UserProject.Repository\obj\Debug\net6.0\UserProject.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\ornek\UserProject\UserProject.Repository\obj\Debug\net6.0\UserProject.Repository.AssemblyInfoInputs.cache
+D:\ornek\UserProject\UserProject.Repository\obj\Debug\net6.0\UserProject.Repository.AssemblyInfo.cs
+D:\ornek\UserProject\UserProject.Repository\obj\Debug\net6.0\UserProject.Repository.csproj.CoreCompileInputs.cache
+D:\ornek\UserProject\UserProject.Repository\obj\Debug\net6.0\UserProject.Repository.csproj.CopyComplete
+D:\ornek\UserProject\UserProject.Repository\obj\Debug\net6.0\UserProject.Repository.dll
+D:\ornek\UserProject\UserProject.Repository\obj\Debug\net6.0\refint\UserProject.Repository.dll
+D:\ornek\UserProject\UserProject.Repository\obj\Debug\net6.0\UserProject.Repository.pdb
+D:\ornek\UserProject\UserProject.Repository\obj\Debug\net6.0\UserProject.Repository.genruntimeconfig.cache
+D:\ornek\UserProject\UserProject.Repository\obj\Debug\net6.0\ref\UserProject.Repository.dll

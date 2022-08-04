@@ -1,0 +1,12 @@
+D:\ornek\UserProject\UserProject.Core\bin\Debug\net6.0\UserProject.Core.deps.json
+D:\ornek\UserProject\UserProject.Core\bin\Debug\net6.0\UserProject.Core.dll
+D:\ornek\UserProject\UserProject.Core\bin\Debug\net6.0\UserProject.Core.pdb
+D:\ornek\UserProject\UserProject.Core\obj\Debug\net6.0\UserProject.Core.csproj.AssemblyReference.cache
+D:\ornek\UserProject\UserProject.Core\obj\Debug\net6.0\UserProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\ornek\UserProject\UserProject.Core\obj\Debug\net6.0\UserProject.Core.AssemblyInfoInputs.cache
+D:\ornek\UserProject\UserProject.Core\obj\Debug\net6.0\UserProject.Core.AssemblyInfo.cs
+D:\ornek\UserProject\UserProject.Core\obj\Debug\net6.0\UserProject.Core.csproj.CoreCompileInputs.cache
+D:\ornek\UserProject\UserProject.Core\obj\Debug\net6.0\UserProject.Core.dll
+D:\ornek\UserProject\UserProject.Core\obj\Debug\net6.0\refint\UserProject.Core.dll
+D:\ornek\UserProject\UserProject.Core\obj\Debug\net6.0\UserProject.Core.pdb
+D:\ornek\UserProject\UserProject.Core\obj\Debug\net6.0\ref\UserProject.Core.dll
